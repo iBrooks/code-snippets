@@ -1,0 +1,29 @@
+>css
+-=-=-=-=-=-=-=-=-
+
+>scss
+-=-=-=-=-=-=-=-=-
+
+>sass
+-=-=-=-=-=-=-=-=-
+
+>html
+>>basic-index.html
+--A basic html5 setup.
+
+>>CDN-links.html
+--Collection of links to CDN's currently:
+    -Foundation 6.2.4
+    -Font Awesome 4.5.0
+-=-=-=-=-=-=-=-=-
+
+>Javascript
+-=-=-=-=-=-=-=-=-
+
+>mixed-language
+-=-=-=-=-=-=-=-=-
+
+>react
+-=-=-=-=-=-=-=-=-
+
+>ruby
