@@ -14,6 +14,7 @@
 >>CDN-links.html
 --Collection of links to CDN's currently:
     -Foundation 6.2.4
+    -Foundation 6.1.2
     -Font Awesome 4.5.0
 -=-=-=-=-=-=-=-=-
 
@@ -24,6 +25,9 @@
 -=-=-=-=-=-=-=-=-
 
 >react
+>>main.js
+--Basic main.js for a react environment
+
 -=-=-=-=-=-=-=-=-
 
 >ruby
