@@ -19,6 +19,9 @@
 -=-=-=-=-=-=-=-=-
 
 >Javascript
+>>fetch-request.js
+--framework for a fetch request
+
 -=-=-=-=-=-=-=-=-
 
 >mixed-language
@@ -30,6 +33,12 @@
 
 >>stateless-componenet.js
 --Basic stateless Component
+
+>>stateful-component.js
+--Basic stateful Component
+
+>>map-react.js
+--usage of .map functionality to create react components 
 
 -=-=-=-=-=-=-=-=-
 
