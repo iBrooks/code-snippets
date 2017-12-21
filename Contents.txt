@@ -28,6 +28,9 @@
 >>main.js
 --Basic main.js for a react environment
 
+>>stateless-componenet.js
+--Basic stateless Component
+
 -=-=-=-=-=-=-=-=-
 
 >ruby
