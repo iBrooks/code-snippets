@@ -8,7 +8,7 @@ getFetch() {
   return response
   })
   .then(response =>{
-    data = response.json()
+    let data = response.json()
     return data
   })
   .then(data =>{
